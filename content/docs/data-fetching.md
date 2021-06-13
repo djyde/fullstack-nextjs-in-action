@@ -67,9 +67,7 @@ Managing these state for every HTTP request will cause us to write duplicated co
 
 There are two major concepts in `react-query`:
 
-{{< details title="Setting up react-query in Next.js" open=true >}}
-
-> Install:
+> Setting up react-query in Next.js:
 >
 > ```bash
 > $ yarn add react-query
@@ -94,7 +92,6 @@ There are two major concepts in `react-query`:
 >  )
 > }
 > ```
-{{< /details >}}
 
 ## Query
 
