@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Fullstack Next.js in Action"
-
+theme="book"
 [params]
 
   BookMenuBundle = '/menu'
