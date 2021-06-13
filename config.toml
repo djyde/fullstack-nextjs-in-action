@@ -5,3 +5,4 @@ theme="book"
 [params]
   BookRepo = 'https://github.com/djyde/fullstack-nextjs-in-action'
   BookMenuBundle = '/menu'
+  BookEditPath = 'edit/master'

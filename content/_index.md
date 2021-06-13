@@ -2,7 +2,7 @@
 
 # Preface
 
-Hi reader, I'm [Randy](https://github.com/djyde), a front-end software engineer. Thank you for your interest in this book.
+Hi reader, I'm [Randy](https://twitter.com/randyloop), a front-end software engineer. Thank you for your interest in this book.
 
 I built some SaaS side projects in my spare time with Next.js. In my opinion, Next.js is a great framework for building fullstack web application. Because you don't need to care about the build config when you bootstrap a project, just write your React pages and the API routes, everything works fine. You can write frontend and backend code in a single place and they can even share a common TypeScript's type definition.
 
@@ -17,8 +17,6 @@ After finishing [Cusdis](https://cusdis.com), I start thinking about sharing how
 ## Is it a free book?
 
 Yes! It's free. But I think it's worth $5. If this book is helpful for you, you could make a $5 one-time donation on my [GitHub sponsor](https://github.com/sponsors/djyde) 💖 or tweet about this book.
-
-Finnaly, English is not my first language. If you find anywhere I didn't express clearly, please mention me at Twitter ([@randyloop](https://twitter.com/randyloop)). 
 
 ## Who this book is for
 
@@ -39,3 +37,5 @@ This book includes some techniques that I usually use in my Next.js projects:
 This book won't go into these library at length. (Again, you should learn the API from the documentation, not from a book). Instead, I will focus on telling you what are they, why use them and how to use them on your fullstack application.
 
 The most important part of this book is the `Real world examples`. You can learn how to apply these techniques in a real word application, how they will help you write your application more quickly. The sections before `Real world examples` is only for highlighting some usage of these libraries that you should know before diving into the real world examples.
+
+Finnaly, English is not my first language. If you find anywhere I didn't express clearly, please mention me at Twitter ([@randyloop](https://twitter.com/randyloop)). 
