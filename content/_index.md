@@ -34,4 +34,8 @@ This book won't go into these library at length. (Again, you should learn the AP
 
 The most important part of this book is the `Real world examples`. You can learn how to apply these techniques in a real word application, how they will help you write your application more quickly. The sections before `Real world examples` is only for highlighting some usage of these libraries that you should know before diving into the real world examples.
 
+## Is it a free book?
+
+Yes! It's free. But I think it's worth $5. If this book is helpful for you, you could make a $5 one-time donation on my [GitHub sponsor](https://github.com/sponsors/djyde) 💖 or tweet about this book.
+
 Finnaly, English is not my first language. If you find anywhere I didn't express clearly, please mention me at Twitter ([@randyloop](https://twitter.com/randyloop)). 
