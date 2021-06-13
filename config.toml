@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "Fullstack Next.js in Action"
 theme="book"
 [params]
-
+  BookRepo = https://github.com/djyde/fullstack-nextjs-in-action
   BookMenuBundle = '/menu'
