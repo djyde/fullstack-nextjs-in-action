@@ -135,7 +135,7 @@ export default IndexPage
 
 We use `useQuery()` to define a query. Every query has a key for being identify. `react-query` use this key to cache query result data. It means that if user has already queried `getPosts`, the other query with this key in other components will first get the cached data before fetching data again, and then refresh the cache and re-render the UI.
 
-Imagin there are two pages would display posts list. They both have `useQuery('getPosts')`. When user comes to the first page, he will see a loading spinner. But when he navigate to the second page, he will instantly see the posts list without waiting to load because the data was cached.
+Imagine two pages that would display the posts list. They both have `useQuery('getPosts')`. When the user comes to the first page, he will see a loading spinner. But when he navigates to the second page, he will instantly see the posts list without waiting to load because the data was cached.
 
 As you can see in the above code example, we can use `isLoading` to know if the HTTP request is loading. And we can use `data` to access to the response data. 
 
